@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi ! Welcome to my repository ! 👋</h1>
-My name is Lance Marciano Montojo. I am currently a 2nd year data scientist student from Technological Institute of the Philippines (T.I.P), Quezon City. 
+<img align="right" alt="coding" width="250" src="https://media.indiedb.com/images/articles/1/194/193883/auto/8SrDsGf.gif">
+My name is Lance Marciano Montojo. I am currently a 2nd year data scientist student from Technological Institute of the Philippines (T.I.P), Quezon City. I would like to create new projects and also continue honing my skills and knowledge in coding.
 
 <br> - 📧 You can contact me at **qlmmontojo@tip.edu.ph**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://fb.com/https://web.facebook.com/sehjfrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/sehjfrie" height="30" width="40" /></a>
+<a href="https://web.facebook.com/sehjfrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/sehjfrie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
