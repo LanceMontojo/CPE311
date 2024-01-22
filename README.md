@@ -1,4 +1,4 @@
-# 👋 Hi ! Welcome to my repository ! 👋</h1>
+<h1 align="center">👋 Hi ! Welcome to my repository ! 👋</h1>
 <img align="right" alt="coding" width="500" src="https://media.indiedb.com/images/articles/1/194/193883/auto/8SrDsGf.gif">
 My name is Lance Marciano Montojo. I am currently a 2nd-year data science student at the Technological Institute of the Philippines (T.I.P) in Quezon City. I would like to create new projects and continue honing my skills and knowledge in coding.
 
