@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi ! Welcome to my repository ! 👋</h1>
 My name is Lance Marciano Montojo. I am currently a 2nd year data scientist student from Technological Institute of the Philippines (T.I.P), Quezon City. 
-<img align="right" alt="codingwithcoffee" width="400" src=![image](https://github.com/LanceMontojo/CPE311/assets/157359380/a275ad41-1f51-48ab-be61-822020c42f39)>
+
 <br> - 📧 You can contact me at **qlmmontojo@tip.edu.ph**
 
 <h3 align="left">Socials:</h3>
